@@ -1,2 +1,4 @@
 reports/
 build/
+*.o
+is_armstrong_number
